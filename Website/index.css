@@ -17,9 +17,16 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     background-color: #1c1d1d;
-    font-family: Arial, sans-serif;
+    font-family: "Roboto", sans-serif;
+    font-style: italic;
+    font-weight: 100 900;
+    font-stretch: 100%;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaWzU.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
     overflow: hidden;
 }
+
 
 /* MAIN BODY */
 .mainBody {
